@@ -1,6 +1,6 @@
 step 1 - project clone using repository - https://github.com/devangdataaro/AI-vector-based-search.git
 
-step 2 - setpa .env file and change database name,user name & password
+step 2 - setup .env file and change database name,user name & password
 
 step 3 - required software list -
         1 php 8.2
