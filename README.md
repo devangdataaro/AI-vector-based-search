@@ -1,1 +1,1 @@
-# AI-vector-based-search
+php artisan import:categories storage/app/categories.xlsx
